@@ -1,6 +1,6 @@
 # AAI-551-Project
 
-This is the project based on object oriented programming with python. I implemented a card game 
+This is the project based on object oriented programming with python.
 ****************************************************************************************************************
 This is the Gaming project "Best Card" 
 The highest priority of the card is "King of Spades" and the lowest priority of the card is "Ace of Clubs"
@@ -17,4 +17,4 @@ Jack => 11
 Queen => 12
 King => 13
 ****************************************************************************************************************
-"""
+
