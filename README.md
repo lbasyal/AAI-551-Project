@@ -1,20 +1,25 @@
-# AAI-551-Project
+# AAI-551 Project: Best Card Game
 
-This is the project based on object oriented programming with python.
-****************************************************************************************************************
-This is the Gaming project "Best Card" 
-The highest priority of the card is "King of Spades" and the lowest priority of the card is "Ace of Clubs"
-Spades > Hearts > Diamonds > Clubs
-King > Queen > Jack > Ace
-****************************************************************************************************************
-Spades => 3
-Hearts => 2
-Diamonds =>1
-Clubs => 0
+Welcome to the "Best Card" gaming project! This project is centered around object-oriented programming in Python and focuses on a card game.
 
-Ace => 1
-Jack => 11
-Queen => 12
-King => 13
-****************************************************************************************************************
+## Game Rules
 
+- The game ranks cards based on priority, with the "King of Spades" being the highest and the "Ace of Clubs" being the lowest.
+- Suit hierarchy: Spades > Hearts > Diamonds > Clubs.
+- Rank hierarchy: King > Queen > Jack > Ace.
+
+## Card Values
+
+- Spades are assigned a value of 3.
+- Hearts are assigned a value of 2.
+- Diamonds are assigned a value of 1.
+- Clubs are assigned a value of 0.
+
+- Ace is assigned a value of 1.
+- Jack is assigned a value of 11.
+- Queen is assigned a value of 12.
+- King is assigned a value of 13.
+
+These rules govern the card values and priorities in the game.
+
+Feel free to explore this project to learn more about object-oriented programming in Python and how the "Best Card" game is implemented.
